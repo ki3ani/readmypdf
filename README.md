@@ -1,2 +1,2 @@
 # readmypdf
- An app that uses open ai llm api to read ai documents with a ract front and flack backend
+ An app that uses open ai llm api to read ai documents with a react front and flask backend
